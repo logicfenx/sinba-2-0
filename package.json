@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/sinba-2-0",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a sinba-2-0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/sinba-2-0.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://wbt.link/sinba-2-0/"
+    },
+    "homepage": "https://wbt.link/sinba-2-0/"
+}
